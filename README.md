@@ -1,4 +1,4 @@
-AppearLogo (Coming Up)
+AppearLogo
 ==========
 
 Digital Signature Appearance on logo's in PDF. Coded in Java. Uses iText Library.
